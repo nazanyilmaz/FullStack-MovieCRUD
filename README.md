@@ -24,8 +24,10 @@
 . react-icons
 . react-toastify
 
-</h5>
-` To run the backend: Type 'npm start'(enter) command in the terminal.`
-` To run the frontend: Type 'npm run dev'(enter) command in the terminal. `
-<h5>
-# FullStack-MovieCRUD
+</h5>To run the backend: Type 'npm start'(enter) command in the terminal.<h5>
+<h5>To run the frontend: Type 'npm run dev'(enter) command in the terminal. </h5>
+
+<h3>gif of project</h3>
+
+![fullStackMovie](https://github.com/user-attachments/assets/f1501401-eb67-4075-b3f1-fdf23090bd7f)
+
